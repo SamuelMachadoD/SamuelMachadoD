@@ -4,7 +4,7 @@
 - 🌱 Estudando o basico da programação e Java
 - 👯 Estou a procura de toda experiencia e colaboração possivel
 - 🤔 Qualquer ajuda é muito bem-vinda
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
  
 <div>
     <img align="center" height="180em" src="https://github-readme-stats-u9fd.vercel.app/api?username=SamuelMachadoD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
