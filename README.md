@@ -6,10 +6,10 @@
 - 🤔 Qualquer ajuda é muito bem-vinda
 - 😄 Pronouns: ele/dele
  
-<div align="center">
+<div>
   <a href="https://github.com/SamuelMachadoD">
   <img height="180em" src="https://github-readme-stats-u9fd.vercel.app/api?username=SamuelMachadoD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats-u9fd.vercel.app/api/top-langs/?username=SamuelMachadoD&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="100em" src="https://github-readme-stats-u9fd.vercel.app/api/top-langs/?username=SamuelMachadoD&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
     
 <div style="display: inline_block"><br>
