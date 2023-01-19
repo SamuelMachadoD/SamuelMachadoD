@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Samuel Machado! 👋
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando programação e Java
-- 👯 Estou a procura de toda experiencia e colaboração possivel
-- 🤔 Qualquer ajuda é muito bem-vinda
-- 😄 Pronomes: ele/dele
+>- 🔭 Hoje trabalho com Back-end
+>- 🌱 Estudando programação e Java
+>- 👯 Estou a procura de toda experiencia e colaboração possivel
+>- 🤔 Qualquer ajuda é muito bem-vinda
+>- 😄 Pronomes: ele/dele
  
 <div>
     <img align="center" height="180em" src="https://github-readme-stats-u9fd.vercel.app/api?username=SamuelMachadoD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
