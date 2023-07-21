@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Samuel Machado! 👋
 
->- 🔭 Hoje trabalho com Back-end
->- 🌱 Estudando programação e Java
+>- 🔭 Hoje trabalho com Back-end usando Adobe Experience Manager na WEBJUMP
+>- 🌱 Estudando Engenharia de software
 >- 👯 Estou a procura de toda experiencia e colaboração possivel
->- 🤔 Qualquer ajuda é muito bem-vinda
+>- 🤔 Qualquer ajuda é muito bem-vinda, igualmente estou disponivel para ajudar
 >- 😄 Pronomes: ele/dele
  
 <div>
