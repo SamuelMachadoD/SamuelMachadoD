@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=samuelmachadoD&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções Web.
